@@ -1,18 +1,16 @@
 ---
 layout: course
-title: Data Science Fundamentals
-description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
-year: 2024
-term: Spring
-location: Science Building, Room 202
-time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
-schedule:
-  - week: 1
-    date: Feb 5
-    topic: Introduction to Data Science
-    description: Overview of the data science workflow and key concepts.
+title: Course 1
+description: 
+instructor: 
+year: 
+term: 
+location: 
+time: 
+course_id: course-1
+---
+
+Coming soon...
     materials:
       - name: Syllabus
         url: /assets/pdf/example_pdf.pdf
