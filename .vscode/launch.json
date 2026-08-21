@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "editor-browser",
+      "request": "launch",
+      "name": "Sushmita Raj Preview",
+      "url": "http://localhost:4000/",
+      "preLaunchTask": "Jekyll Server"
+    }
+  ]
+}
